@@ -17,14 +17,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: pinetree822
-  email: pinetree822@nate.com
-  facebook: https://www.facebook.com/profile.php?id=100007017434653
-  flickr: https://t.co/jBxiZGgacv
-  github: pinetree822/pinetree822.github.io
+  dribbble: "pinetree822"
+  email: "pinetree822@nate.com"
+  facebook: "www.facebook.com/profile.php?id=100007017434653"
+  flickr: "t.co/jBxiZGgacv"
+  github: "pinetree822/pinetree822.github.io"
   instagram:
   linkedin:
-  pinterest: www.pinterest.com/pinetree8220623
+  pinterest: "www.pinterest.com/pinetree8220623"
   rss: # just type anything here for a working RSS icon
   twitter: pinetree822
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
