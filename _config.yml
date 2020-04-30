@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: "pinetree822"
   email: "pinetree822@nate.com"
-  facebook: "www.facebook.com/profile.php?id=100007017434653"
-  flickr: "t.co/jBxiZGgacv"
-  github: "pinetree822/pinetree822.github.io"
+  facebook: "100007017434653"
+  flickr: "jBxiZGgacv"
+  github: "pinetree822"
   instagram:
   linkedin:
-  pinterest: "www.pinterest.com/pinetree8220623"
+  pinterest: "pinetree8220623"
   rss: # just type anything here for a working RSS icon
-  twitter: pinetree822
+  twitter: "pinetree822"
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCiiafB_gFiARWKR0ETI20jQ # channel/<your_long_string> or user/<user-name>
+  youtube: "channel/UCiiafB_gFiARWKR0ETI20jQ" # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
